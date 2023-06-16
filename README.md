@@ -1,6 +1,6 @@
 # BatikSnap
 
-BatikSnap GitHub Repository of Bangkit Academy 2023 Capstone Project from 3 learning path: Machine Learning, Cloud Computing, and Mobile Development from team C23-PR498.
+BatikSnap GitHub Repository of Bangkit Academy 2023 Capstone Project for Machine Learning path from team C23-PR498.
 
 # Background
 
